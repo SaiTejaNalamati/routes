@@ -1,0 +1,1 @@
+<h1>Given URL name is :{{$name}}</h1>
